@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ANYTHING. I am looking to learn new skills by contributing to
   various open-source projects found on this site
 - 😁I'm new, so I appreciate help!! Thank you.
-- 📫 How to reach me: dheekshanyas@gmail.com
+- 📫 How to reach me: dsenthamilselvan130@gmail.com
 
 <!---
 dheekshu111/dheekshu111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
